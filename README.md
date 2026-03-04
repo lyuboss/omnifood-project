@@ -1,5 +1,7 @@
 # Omnifood Project
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50867825-780b-487b-99f5-19e833f20f0f/deploy-status)](https://app.netlify.com/sites/unique-sopapillas-6399f1/deploys)
+
 A responsive food delivery landing page built as a practice project while following Jonas Schmedtmann's "Build Responsive Real-World Websites with HTML and CSS" course on Udemy.
 
 ## About
@@ -27,8 +29,8 @@ Project designed by [Jonas Schmedtmann](https://codingheroes.io/). This is a fol
 
 ## Status
 
-🚧 Work in progress - currently building the project
+✅ **Completed & Deployed**
 
 ## Live Demo
 
-Coming soon (potentially deployed via GitHub Pages)
+🚀 **[View the live project here](https://unique-sopapillas-6399f1.netlify.app/)**
